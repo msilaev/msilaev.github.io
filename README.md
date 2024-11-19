@@ -41,15 +41,6 @@
 ![Commits Badge](https://img.shields.io/github/commit-activity/y/msilaev/username.github.io)
 ![Last Commit Badge](https://img.shields.io/github/last-commit/msilaev/username.github.io)
 
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msilaev&show_icons=true&count_private=true&theme=radical)
-
----
-
-### 🌟 Contribution Activity
-[![Mike's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msilaev&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
