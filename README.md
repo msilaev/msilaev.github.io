@@ -13,6 +13,9 @@
 ---
 
 ## 🌟 Featured Projects
+- [**WingmanAI**](https://github.com/markkukippola/wingmanAI)    
+  WingmanAI app visualizes and predicts electricity alarms for Tentrio OY.     
+  [View Demo](demos/G04-FinalPresentation-Spring2024.pdf)
 - [**GAN Image Generation**](https://github.com/msilaev/GAN-MNIST)  
   Developed a GAN-based model for generating hand-written numbers.
 - [**Game of Life Flask App**](https://github.com/msilaev/flask_deploy_example)  
