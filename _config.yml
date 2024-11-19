@@ -1,7 +1,7 @@
 # _config.yml
 
 # Site settings
-title: "Mike Silaev"
+title: ""
 description: "Machine learning, quantum physics, data science, and robotics."
 baseurl: "" # Leave empty for GitHub Pages root-level deployment
 url: "https://msilaev.github.io"
