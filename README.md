@@ -1,4 +1,3 @@
-# Hi there! 👋 I'm Mike Silaev
 
 🚀 **Machine learning, quantum physics, data science, and robotics enthusiast**  
 🎓 **PhD in Condensed Matter Physics | Master's in Computer Science**  
