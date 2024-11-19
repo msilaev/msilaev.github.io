@@ -1,35 +1,44 @@
-# _config.yml
-
-# Site settings
-title: ""
-description: "Machine learning, quantum physics, data science, and robotics."
-baseurl: "" # Leave empty for GitHub Pages root-level deployment
+title: "Mike Silaev's Portfolio"
+description: "Machine learning, quantum physics, data science, and robotics enthusiast"
+baseurl: ""
 url: "https://msilaev.github.io"
+github_username: msilaev
+
+# Social Links
+linkedin: https://www.linkedin.com/in/mike-silaev-1b7b1678/
+google_scholar: https://scholar.google.com/citations?user=PMj0KZIAAAAJ&hl=ru
+portfolio: https://msilaev.github.io
 
 # Theme settings
 theme: minima
+
+# Plugins
 plugins:
-  - jekyll-feed # For RSS feeds
-  - jekyll-seo-tag # For improved SEO
-  - jekyll-sitemap # For sitemap generation
+  - jekyll-feed
 
-# Social links for SEO
-social_links:
-  github: "https://github.com/msilaev"
-  linkedin: "https://www.linkedin.com/in/mike-silaev-1b7b1678/"
-  scholar: "https://scholar.google.com/citations?user=PMj0KZIAAAAJ&hl=ru"
-
-# Markdown options
+# Markdown settings
 markdown: kramdown
-kramdown:
-  input: GFM
+highlighter: rouge
 
-# Minima theme configuration
-minima:
-  social_links:
-    github: "https://github.com/msilaev"
-    linkedin: "https://www.linkedin.com/in/mike-silaev-1b7b1678/"
-    scholar: "https://scholar.google.com/citations?user=PMj0KZIAAAAJ&hl=ru"
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
-# GitHub Pages settings
-repository: "msilaev/msilaev.github.io"
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
