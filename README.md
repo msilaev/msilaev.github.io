@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mike Silaev's Portfolio"
+---
+
 # Hi there! 👋 I'm Mike Silaev
 
 🚀 **Machine learning, quantum physics, data science, and robotics enthusiast**  
