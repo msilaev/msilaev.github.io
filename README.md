@@ -39,4 +39,3 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mike-silaev-1b7b1678/)  
-- [Personal Portfolio](https://msilaev.github.io)
