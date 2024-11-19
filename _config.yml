@@ -1,5 +1,4 @@
-title: "Mike Silaev's Portfolio"
-description: "Machine learning, quantum physics, data science, and robotics."
-theme: minima
-url: "https://msilaev.github.io"
-markdown: kramdown
+---
+layout: default
+---
+
