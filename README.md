@@ -34,15 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats and Activity
-
-### 🔥 Commit Statistics
-![Commits Badge](https://img.shields.io/github/commit-activity/y/msilaev/username.github.io)
-![Last Commit Badge](https://img.shields.io/github/last-commit/msilaev/username.github.io)
-
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mike-silaev-1b7b1678/)  
 - [Personal Portfolio](https://msilaev.github.io)
