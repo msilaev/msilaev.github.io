@@ -1,4 +1,35 @@
----
-layout: default
----
+# _config.yml
 
+# Site settings
+title: "Mike Silaev"
+description: "Machine learning, quantum physics, data science, and robotics."
+baseurl: "" # Leave empty for GitHub Pages root-level deployment
+url: "https://msilaev.github.io"
+
+# Theme settings
+theme: minima
+plugins:
+  - jekyll-feed # For RSS feeds
+  - jekyll-seo-tag # For improved SEO
+  - jekyll-sitemap # For sitemap generation
+
+# Social links for SEO
+social_links:
+  github: "https://github.com/msilaev"
+  linkedin: "https://www.linkedin.com/in/mike-silaev-1b7b1678/"
+  scholar: "https://scholar.google.com/citations?user=PMj0KZIAAAAJ&hl=ru"
+
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Minima theme configuration
+minima:
+  social_links:
+    github: "https://github.com/msilaev"
+    linkedin: "https://www.linkedin.com/in/mike-silaev-1b7b1678/"
+    scholar: "https://scholar.google.com/citations?user=PMj0KZIAAAAJ&hl=ru"
+
+# GitHub Pages settings
+repository: "msilaev/msilaev.github.io"
