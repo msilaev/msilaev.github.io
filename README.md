@@ -13,6 +13,8 @@
 ---
 
 ## 🌟 Featured Projects
+- [**GAN audio denoise**](https://github.com/msilaev/GAN-audio-denoise)  
+  Developed a GAN-based model for audio denoising.
 - [**SSD real-time detection**](https://github.com/msilaev/SSD300-realtime)    
   Real-time object detection from webcam image.
   [View Demo](demos/Ex3Task3Screenshot2.jpg)
