@@ -21,9 +21,9 @@
   [View Demo](demos/G04-FinalPresentation-Spring2024.pdf)
 - [**GAN Image Generation**](https://github.com/msilaev/GAN-MNIST)  
   Developed a GAN-based model for generating hand-written numbers.
-- [**Game of Life Flask App**](https://github.com/msilaev/flask_deploy_example)  
+- [**Game of Life App**](https://github.com/msilaev/flask_deploy_example)  
   Game of Life (GoF) in a browser using Flask.
-- [**Sound Classification Flask App**](https://github.com/msilaev/sound-recognition-app-bus-car-tram)  
+- [**Sound Classification App**](https://github.com/msilaev/sound-recognition-app-bus-car-tram)  
   Street sound classification app using Flask.
 - [**Geospatial Analysis**](https://github.com/msilaev/IBM-Capstone)  
   Capstone project for Coursera IBM data science specialization.
