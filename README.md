@@ -15,6 +15,7 @@
 ## 🌟 Featured Projects
 - [**SSD real-time detection**](https://github.com/msilaev/SSD300-realtime)    
   Real-time object detection from webcam image.
+  [View Demo](demos/Ex3Task3Screenshot2.jpg)
 - [**WingmanAI**](https://github.com/markkukippola/wingmanAI)    
   WingmanAI app visualizes and predicts electricity alarms for Tentrio OY.     
   [View Demo](demos/G04-FinalPresentation-Spring2024.pdf)
