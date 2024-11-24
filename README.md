@@ -1,6 +1,6 @@
 
 🚀 **Machine learning, quantum physics, data science, and robotics enthusiast**  
-🎓 **PhD in Condensed Matter Physics | Master's in Computer Science**  
+🎓 **Master's in Computer Science**  
 🌍 **Open to collaborations in Data science, GenAI, robotics, and machine learning.**
 
 ---
