@@ -39,6 +39,11 @@
   Includes papers on quantum and condensed matter physics.
 
 ---
+<style>
+  .footer {
+    display: none;
+  }
+</style>
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mike-silaev-1b7b1678/)  
