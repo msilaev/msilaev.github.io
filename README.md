@@ -14,25 +14,23 @@
 
 ## 🌟 Featured Projects
 - [**GAN audio denoise**](https://github.com/msilaev/GAN-audio-denoise)  
-  Developed a GAN-based model for audio denoising.
+  GAN-based model for audio denoising.
+- [**GAN Image Generation**](https://github.com/msilaev/GAN-MNIST)  
+  GAN-based model for generating hand-written numbers.
 - [**SSD real-time detection**](https://github.com/msilaev/SSD300-realtime)    
-  Real-time object detection from webcam image.
+  Real-time object detection from a webcam stream.
+- [**Sound Classification App**](https://github.com/msilaev/sound-recognition-app-bus-car-tram)  
+  Street sound classification app in Flask.
   [View Demo](demos/Ex3Task3Screenshot2.jpg)
 - [**WingmanAI**](https://github.com/markkukippola/wingmanAI)    
   WingmanAI app visualizes and predicts electricity alarms for Tentrio OY.     
   [View Demo](demos/G04-FinalPresentation-Spring2024.pdf)
-- [**GAN Image Generation**](https://github.com/msilaev/GAN-MNIST)  
-  Developed a GAN-based model for generating hand-written numbers.
 - [**Game of Life App**](https://github.com/msilaev/flask_deploy_example)  
   Game of Life (GoF) in a browser using Flask.
-- [**Sound Classification App**](https://github.com/msilaev/sound-recognition-app-bus-car-tram)  
-  Street sound classification app using Flask.
-- [**Geospatial Analysis**](https://github.com/msilaev/IBM-Capstone)  
-  Capstone project for Coursera IBM data science specialization.
 - [**Programming Homeworks**](https://github.com/msilaev/Programming-Course-Projects)  
-  Assignments in Python, C++, and Scala.
+  Assignments in Python, C++, Java, and Scala.
 - [**Quantum Computing Demos**](https://github.com/msilaev/qiskit)  
-  Projects and demos for "Intro to QC" course.
+  Projects and demos forthe  "Intro to QC" course.
 
 ---
 
