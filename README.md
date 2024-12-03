@@ -19,8 +19,8 @@
   GAN-based model for audio denoising.
 - [**GAN Image Generation**](https://github.com/msilaev/GAN-MNIST)  
   GAN-based model for generating hand-written numbers.
-- [**SSD real-time detection**](https://github.com/msilaev/SSD300-realtime)    
-  Real-time object detection from a webcam stream. [View Demo] (demos/Ex3Task3Screenshot2.jpg)
+- [**SSD real-time detection**](https://github.com/msilaev/SSD300-realtime)  
+  Real-time object detection from a webcam stream. [View Demo](demos/Ex3Task3Screenshot2.jpg)
 - [**Sound Classification App**](https://github.com/msilaev/sound-recognition-app-bus-car-tram)  
   Street sound classification app in Flask. 
 - [**WingmanAI**](https://github.com/markkukippola/wingmanAI)    
