@@ -13,6 +13,8 @@
 ---
 
 ## 🌟 Featured Projects
+- [**Speech enhancement app**](https://github.com/msilaev/SpeechEnhanceApp)  
+  Simple app for audio denoising and bandwidth extension.
 - [**GAN audio denoise**](https://github.com/msilaev/GAN-audio-denoise)  
   GAN-based model for audio denoising.
 - [**GAN Image Generation**](https://github.com/msilaev/GAN-MNIST)  
